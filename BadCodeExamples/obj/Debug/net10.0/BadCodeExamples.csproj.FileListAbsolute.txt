@@ -1,0 +1,14 @@
+D:\Projects\AIAgentCodereview\SampleProject\Code_Review_Project\BadCode\BadCodeExamples\obj\Debug\net10.0\BadCodeExamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\AIAgentCodereview\SampleProject\Code_Review_Project\BadCode\BadCodeExamples\obj\Debug\net10.0\BadCodeExamples.AssemblyInfoInputs.cache
+D:\Projects\AIAgentCodereview\SampleProject\Code_Review_Project\BadCode\BadCodeExamples\obj\Debug\net10.0\BadCodeExamples.AssemblyInfo.cs
+D:\Projects\AIAgentCodereview\SampleProject\Code_Review_Project\BadCode\BadCodeExamples\obj\Debug\net10.0\BadCodeExamples.csproj.CoreCompileInputs.cache
+D:\Projects\AIAgentCodereview\SampleProject\Code_Review_Project\BadCode\BadCodeExamples\bin\Debug\net10.0\BadCodeExamples.exe
+D:\Projects\AIAgentCodereview\SampleProject\Code_Review_Project\BadCode\BadCodeExamples\bin\Debug\net10.0\BadCodeExamples.deps.json
+D:\Projects\AIAgentCodereview\SampleProject\Code_Review_Project\BadCode\BadCodeExamples\bin\Debug\net10.0\BadCodeExamples.runtimeconfig.json
+D:\Projects\AIAgentCodereview\SampleProject\Code_Review_Project\BadCode\BadCodeExamples\bin\Debug\net10.0\BadCodeExamples.dll
+D:\Projects\AIAgentCodereview\SampleProject\Code_Review_Project\BadCode\BadCodeExamples\bin\Debug\net10.0\BadCodeExamples.pdb
+D:\Projects\AIAgentCodereview\SampleProject\Code_Review_Project\BadCode\BadCodeExamples\obj\Debug\net10.0\BadCodeExamples.dll
+D:\Projects\AIAgentCodereview\SampleProject\Code_Review_Project\BadCode\BadCodeExamples\obj\Debug\net10.0\refint\BadCodeExamples.dll
+D:\Projects\AIAgentCodereview\SampleProject\Code_Review_Project\BadCode\BadCodeExamples\obj\Debug\net10.0\BadCodeExamples.pdb
+D:\Projects\AIAgentCodereview\SampleProject\Code_Review_Project\BadCode\BadCodeExamples\obj\Debug\net10.0\BadCodeExamples.genruntimeconfig.cache
+D:\Projects\AIAgentCodereview\SampleProject\Code_Review_Project\BadCode\BadCodeExamples\obj\Debug\net10.0\ref\BadCodeExamples.dll

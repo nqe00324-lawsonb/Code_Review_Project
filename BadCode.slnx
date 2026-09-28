@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BadCode/BadCode.csproj" />
+  <Project Path="BadCodeExamples/BadCodeExamples.csproj" />
+</Solution>

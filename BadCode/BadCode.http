@@ -1,0 +1,6 @@
+@BadCode_HostAddress = http://localhost:5206
+
+GET {{BadCode_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

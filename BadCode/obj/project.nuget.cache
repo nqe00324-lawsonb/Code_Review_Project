@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "enkwX7WK9QQ=",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\BadCode\\BadCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nqe00324\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "C:\\Users\\nqe00324\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}

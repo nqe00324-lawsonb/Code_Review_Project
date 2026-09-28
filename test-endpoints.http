@@ -1,0 +1,77 @@
+### Bad Code API Testing
+### Use this file with Visual Studio's REST Client (Ctrl+Alt+E)
+
+@baseUrl = https://localhost:7030
+@contentType = application/json
+
+### ========================================
+### Discovery Endpoint
+### ========================================
+
+### Get all available endpoints
+GET {{baseUrl}}/weatherforecast/demo-endpoints HTTP/1.1
+
+### ========================================
+### Category Demonstrations
+### ========================================
+
+### Security Vulnerabilities
+GET {{baseUrl}}/weatherforecast/security-demo HTTP/1.1
+
+### Resource Management Issues
+GET {{baseUrl}}/weatherforecast/resource-demo HTTP/1.1
+
+### Poor Naming Conventions
+GET {{baseUrl}}/weatherforecast/naming-demo HTTP/1.1
+
+### Exception Handling Issues
+GET {{baseUrl}}/weatherforecast/exception-demo HTTP/1.1
+
+### Null Reference Issues
+GET {{baseUrl}}/weatherforecast/null-demo HTTP/1.1
+
+### Performance and Design Anti-Patterns
+GET {{baseUrl}}/weatherforecast/performance-demo HTTP/1.1
+
+### ========================================
+### Specific Bad Code Tests
+### ========================================
+
+### SQL Injection - Normal ID
+GET {{baseUrl}}/weatherforecast/get-user/1 HTTP/1.1
+
+### SQL Injection - Attack Attempt
+GET {{baseUrl}}/weatherforecast/get-user/1%20OR%201%3D1 HTTP/1.1
+
+### Input Processing Without Validation
+POST {{baseUrl}}/weatherforecast/process-input HTTP/1.1
+Content-Type: {{contentType}}
+
+{
+  "input": "admin:admin@example.com"
+}
+
+### String Concatenation Performance Test
+POST {{baseUrl}}/weatherforecast/build-string HTTP/1.1
+Content-Type: {{contentType}}
+
+[
+  "item1",
+  "item2",
+  "item3",
+  "item4",
+  "item5"
+]
+
+### Division - Valid Input
+GET {{baseUrl}}/weatherforecast/divide/10/2 HTTP/1.1
+
+### Division - Division by Zero (Error Expected)
+GET {{baseUrl}}/weatherforecast/divide/10/0 HTTP/1.1
+
+### ========================================
+### Original Endpoint (For Reference)
+### ========================================
+
+### Get Weather Forecast
+GET {{baseUrl}}/weatherforecast HTTP/1.1

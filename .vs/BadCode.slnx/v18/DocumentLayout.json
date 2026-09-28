@@ -1,0 +1,458 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B73D835-AB30-405A-8AD5-0336E87C897E}|BadCode\\BadCode.csproj|d:\\projects\\aiagentcodereview\\sampleproject\\code_review_project\\badcode\\badcode\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B73D835-AB30-405A-8AD5-0336E87C897E}|BadCode\\BadCode.csproj|solutionrelative:badcode\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nqe00324\\.copilot\\plans\\plan-create-bad-code-test-project.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}|MarkdownSecurePreview"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nqe00324\\.copilot\\plans\\plan-create-bad-code-test-project.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}|MardownSecureEdit"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0908E6-FC4E-D11D-11A2-A3F16B85A237}|BadCodeExamples\\BadCodeExamples.csproj|d:\\projects\\aiagentcodereview\\sampleproject\\code_review_project\\badcode\\badcodeexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0908E6-FC4E-D11D-11A2-A3F16B85A237}|BadCodeExamples\\BadCodeExamples.csproj|solutionrelative:badcodeexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0908E6-FC4E-D11D-11A2-A3F16B85A237}|BadCodeExamples\\BadCodeExamples.csproj|d:\\projects\\aiagentcodereview\\sampleproject\\code_review_project\\badcode\\badcodeexamples\\securityvulnerabilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0908E6-FC4E-D11D-11A2-A3F16B85A237}|BadCodeExamples\\BadCodeExamples.csproj|solutionrelative:badcodeexamples\\securityvulnerabilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0908E6-FC4E-D11D-11A2-A3F16B85A237}|BadCodeExamples\\BadCodeExamples.csproj|d:\\projects\\aiagentcodereview\\sampleproject\\code_review_project\\badcode\\badcodeexamples\\resourcemanagementissues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0908E6-FC4E-D11D-11A2-A3F16B85A237}|BadCodeExamples\\BadCodeExamples.csproj|solutionrelative:badcodeexamples\\resourcemanagementissues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0908E6-FC4E-D11D-11A2-A3F16B85A237}|BadCodeExamples\\BadCodeExamples.csproj|d:\\projects\\aiagentcodereview\\sampleproject\\code_review_project\\badcode\\badcodeexamples\\poornamingdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0908E6-FC4E-D11D-11A2-A3F16B85A237}|BadCodeExamples\\BadCodeExamples.csproj|solutionrelative:badcodeexamples\\poornamingdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0908E6-FC4E-D11D-11A2-A3F16B85A237}|BadCodeExamples\\BadCodeExamples.csproj|d:\\projects\\aiagentcodereview\\sampleproject\\code_review_project\\badcode\\badcodeexamples\\exceptionhandlingissues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0908E6-FC4E-D11D-11A2-A3F16B85A237}|BadCodeExamples\\BadCodeExamples.csproj|solutionrelative:badcodeexamples\\exceptionhandlingissues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0908E6-FC4E-D11D-11A2-A3F16B85A237}|BadCodeExamples\\BadCodeExamples.csproj|d:\\projects\\aiagentcodereview\\sampleproject\\code_review_project\\badcode\\badcodeexamples\\nullreferenceissues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0908E6-FC4E-D11D-11A2-A3F16B85A237}|BadCodeExamples\\BadCodeExamples.csproj|solutionrelative:badcodeexamples\\nullreferenceissues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0908E6-FC4E-D11D-11A2-A3F16B85A237}|BadCodeExamples\\BadCodeExamples.csproj|d:\\projects\\aiagentcodereview\\sampleproject\\code_review_project\\badcode\\badcodeexamples\\performanceanddesignantipatterns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0908E6-FC4E-D11D-11A2-A3F16B85A237}|BadCodeExamples\\BadCodeExamples.csproj|solutionrelative:badcodeexamples\\performanceanddesignantipatterns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B73D835-AB30-405A-8AD5-0336E87C897E}|BadCode\\BadCode.csproj|d:\\projects\\aiagentcodereview\\sampleproject\\code_review_project\\badcode\\badcode\\badcode.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7B73D835-AB30-405A-8AD5-0336E87C897E}|BadCode\\BadCode.csproj|solutionrelative:badcode\\badcode.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\INTEGRATION_GUIDE.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:INTEGRATION_GUIDE.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\test-endpoints.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test-endpoints.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\IMPLEMENTATION_SUMMARY.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IMPLEMENTATION_SUMMARY.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\test-endpoints.bat||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test-endpoints.bat||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\test-endpoints.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test-endpoints.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\STATUS_REPORT.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:STATUS_REPORT.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\QUICK_START.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QUICK_START.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\COMPLETION_SUMMARY.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:COMPLETION_SUMMARY.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0908E6-FC4E-D11D-11A2-A3F16B85A237}|BadCodeExamples\\BadCodeExamples.csproj|d:\\projects\\aiagentcodereview\\sampleproject\\code_review_project\\badcode\\badcodeexamples\\badcodeexamples.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EE0908E6-FC4E-D11D-11A2-A3F16B85A237}|BadCodeExamples\\BadCodeExamples.csproj|solutionrelative:badcodeexamples\\badcodeexamples.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BadCodeExamples",
+              "DocumentMoniker": "D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\BadCodeExamples\\BadCodeExamples.csproj",
+              "RelativeDocumentMoniker": "BadCodeExamples\\BadCodeExamples.csproj",
+              "ToolTip": "D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\BadCodeExamples\\BadCodeExamples.csproj",
+              "RelativeToolTip": "BadCodeExamples\\BadCodeExamples.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-28T08:03:18.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\BadCode\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "BadCode\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\BadCode\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "BadCode\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAAAPcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T07:03:19.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "INTEGRATION_GUIDE.md",
+              "DocumentMoniker": "D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\INTEGRATION_GUIDE.md",
+              "RelativeDocumentMoniker": "INTEGRATION_GUIDE.md",
+              "ToolTip": "D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\INTEGRATION_GUIDE.md",
+              "RelativeToolTip": "INTEGRATION_GUIDE.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-09-28T07:04:10.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "test-endpoints.ps1",
+              "DocumentMoniker": "D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\test-endpoints.ps1",
+              "RelativeDocumentMoniker": "test-endpoints.ps1",
+              "ToolTip": "D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\test-endpoints.ps1",
+              "RelativeToolTip": "test-endpoints.ps1",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-28T07:04:24.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-09-28T07:04:55.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BadCode",
+              "DocumentMoniker": "D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\BadCode\\BadCode.csproj",
+              "RelativeDocumentMoniker": "BadCode\\BadCode.csproj",
+              "ToolTip": "D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\BadCode\\BadCode.csproj",
+              "RelativeToolTip": "BadCode\\BadCode.csproj",
+              "ViewState": "AgIAAA8AAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-28T07:03:27.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "plan-create-bad-code-test-project.md",
+              "DocumentMoniker": "C:\\Users\\nqe00324\\.copilot\\plans\\plan-create-bad-code-test-project.md",
+              "ToolTip": "C:\\Users\\nqe00324\\.copilot\\plans\\plan-create-bad-code-test-project.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-09-28T07:02:09.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "plan-create-bad-code-test-project.md [Preview]",
+              "DocumentMoniker": "C:\\Users\\nqe00324\\.copilot\\plans\\plan-create-bad-code-test-project.md",
+              "ToolTip": "C:\\Users\\nqe00324\\.copilot\\plans\\plan-create-bad-code-test-project.md [Preview]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-09-28T07:02:08.94Z",
+              "EditorCaption": " [Preview]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "COMPLETION_SUMMARY.txt",
+              "DocumentMoniker": "D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\COMPLETION_SUMMARY.txt",
+              "RelativeDocumentMoniker": "COMPLETION_SUMMARY.txt",
+              "ToolTip": "D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\COMPLETION_SUMMARY.txt",
+              "RelativeToolTip": "COMPLETION_SUMMARY.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-09-28T07:53:23.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "STATUS_REPORT.md",
+              "DocumentMoniker": "D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\STATUS_REPORT.md",
+              "RelativeDocumentMoniker": "STATUS_REPORT.md",
+              "ToolTip": "D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\STATUS_REPORT.md",
+              "RelativeToolTip": "STATUS_REPORT.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-09-28T07:06:29.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "QUICK_START.md",
+              "DocumentMoniker": "D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\QUICK_START.md",
+              "RelativeDocumentMoniker": "QUICK_START.md",
+              "ToolTip": "D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\QUICK_START.md",
+              "RelativeToolTip": "QUICK_START.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-09-28T07:07:00.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "test-endpoints.bat",
+              "DocumentMoniker": "D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\test-endpoints.bat",
+              "RelativeDocumentMoniker": "test-endpoints.bat",
+              "ToolTip": "D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\test-endpoints.bat",
+              "RelativeToolTip": "test-endpoints.bat",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000614|",
+              "WhenOpened": "2026-09-28T07:05:38.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "test-endpoints.http",
+              "DocumentMoniker": "D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\test-endpoints.http",
+              "RelativeDocumentMoniker": "test-endpoints.http",
+              "ToolTip": "D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\test-endpoints.http",
+              "RelativeToolTip": "test-endpoints.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-09-28T07:05:46.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IMPLEMENTATION_SUMMARY.md",
+              "DocumentMoniker": "D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\IMPLEMENTATION_SUMMARY.md",
+              "RelativeDocumentMoniker": "IMPLEMENTATION_SUMMARY.md",
+              "ToolTip": "D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\IMPLEMENTATION_SUMMARY.md",
+              "RelativeToolTip": "IMPLEMENTATION_SUMMARY.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-09-28T07:05:26.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExceptionHandlingIssues.cs",
+              "DocumentMoniker": "D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\BadCodeExamples\\ExceptionHandlingIssues.cs",
+              "RelativeDocumentMoniker": "BadCodeExamples\\ExceptionHandlingIssues.cs",
+              "ToolTip": "D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\BadCodeExamples\\ExceptionHandlingIssues.cs",
+              "RelativeToolTip": "BadCodeExamples\\ExceptionHandlingIssues.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T06:59:39.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PoorNamingDemo.cs",
+              "DocumentMoniker": "D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\BadCodeExamples\\PoorNamingDemo.cs",
+              "RelativeDocumentMoniker": "BadCodeExamples\\PoorNamingDemo.cs",
+              "ToolTip": "D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\BadCodeExamples\\PoorNamingDemo.cs",
+              "RelativeToolTip": "BadCodeExamples\\PoorNamingDemo.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAABBwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T06:59:22.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResourceManagementIssues.cs",
+              "DocumentMoniker": "D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\BadCodeExamples\\ResourceManagementIssues.cs",
+              "RelativeDocumentMoniker": "BadCodeExamples\\ResourceManagementIssues.cs",
+              "ToolTip": "D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\BadCodeExamples\\ResourceManagementIssues.cs",
+              "RelativeToolTip": "BadCodeExamples\\ResourceManagementIssues.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T06:59:09.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SecurityVulnerabilities.cs",
+              "DocumentMoniker": "D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\BadCodeExamples\\SecurityVulnerabilities.cs",
+              "RelativeDocumentMoniker": "BadCodeExamples\\SecurityVulnerabilities.cs",
+              "ToolTip": "D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\BadCodeExamples\\SecurityVulnerabilities.cs",
+              "RelativeToolTip": "BadCodeExamples\\SecurityVulnerabilities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T06:58:56.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\BadCodeExamples\\Program.cs",
+              "RelativeDocumentMoniker": "BadCodeExamples\\Program.cs",
+              "ToolTip": "D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\BadCodeExamples\\Program.cs",
+              "RelativeToolTip": "BadCodeExamples\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T06:58:43.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PerformanceAndDesignAntiPatterns.cs",
+              "DocumentMoniker": "D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\BadCodeExamples\\PerformanceAndDesignAntiPatterns.cs",
+              "RelativeDocumentMoniker": "BadCodeExamples\\PerformanceAndDesignAntiPatterns.cs",
+              "ToolTip": "D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\BadCodeExamples\\PerformanceAndDesignAntiPatterns.cs",
+              "RelativeToolTip": "BadCodeExamples\\PerformanceAndDesignAntiPatterns.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAABBwL0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T07:00:22.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NullReferenceIssues.cs",
+              "DocumentMoniker": "D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\BadCodeExamples\\NullReferenceIssues.cs",
+              "RelativeDocumentMoniker": "BadCodeExamples\\NullReferenceIssues.cs",
+              "ToolTip": "D:\\Projects\\AIAgentCodereview\\SampleProject\\Code_Review_Project\\BadCode\\BadCodeExamples\\NullReferenceIssues.cs",
+              "RelativeToolTip": "BadCodeExamples\\NullReferenceIssues.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAM8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T06:59:59.124Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1948313171:0:{81164725-9a96-4ece-a4cb-440d8fd285e5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
